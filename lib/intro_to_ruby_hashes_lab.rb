@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash {
-      favorite_snack: "cookie"
+  favorite_snack : "cookie"
     }
   end
 
