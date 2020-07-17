@@ -2,9 +2,8 @@ def new_hash
   {}
 end
 
-def my_hash {
-  favorite_snack : "cookie"
-    }
+def my_hash
+  {favorite_snack : "cookie"}
   end
 
 def pioneer
